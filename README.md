@@ -1,4 +1,4 @@
-nireas
+Nireas
 ======
 
 Nireas is a theme manager for Pharo 4
@@ -16,5 +16,8 @@ baseline:'Nireas';
 repository:'github://kilon/Nireas:master';
 load.
 
-Then open World meny and go to System > Setting and in Appearance choose the
-Nireas theme. Then open World menu again and go to Ephestos > Nireas
+Then open World meny and go to System > Settings and in Appearance choose the
+Nireas theme. Then open World menu again and go to Ephestos > Nireas.
+
+Test Nireas on a clean image because it is experimental. Please report any
+bugs.
