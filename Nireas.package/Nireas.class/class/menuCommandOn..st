@@ -6,7 +6,7 @@ menuCommandOn: aBuilder
 		target: AbstractTool ;
 		icon: (Smalltalk ui icons iconNamed: #toolsIcon). 
 		
-	(aBuilder item: #'Nireas Theme Manager')
+	(aBuilder item: #'Nireas')
 		parent: #Ephestos;
 		action: [self open]; 
 		icon: Smalltalk ui icons historyIcon ;
