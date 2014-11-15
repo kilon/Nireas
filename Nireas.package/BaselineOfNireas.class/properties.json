@@ -1,0 +1,14 @@
+{
+	"category" : "Nireas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfNireas",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
