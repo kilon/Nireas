@@ -1,0 +1,16 @@
+{
+	"category" : "Nireas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"button",
+		"myColor",
+		"theme" ],
+	"name" : "Nireas",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

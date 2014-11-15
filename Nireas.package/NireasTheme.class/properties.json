@@ -1,0 +1,14 @@
+{
+	"category" : "Nireas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"backgroundColor" ],
+	"name" : "NireasTheme",
+	"pools" : [
+		 ],
+	"super" : "Pharo3DarkTheme",
+	"type" : "normal" }

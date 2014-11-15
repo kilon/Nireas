@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "kilonAlios 11/15/2014 12:03",
+		"baseConfigurationClassIfAbsent:" : "kilonAlios 11/15/2014 12:03",
+		"ensureMetacello" : "kilonAlios 11/15/2014 12:03",
+		"ensureMetacelloBaseConfiguration" : "kilonAlios 11/15/2014 12:03",
+		"isMetacelloConfig" : "kilonAlios 11/15/2014 12:03",
+		"load" : "kilonAlios 11/15/2014 12:03",
+		"loadBleedingEdge" : "kilonAlios 11/15/2014 12:03",
+		"loadDevelopment" : "kilonAlios 11/15/2014 12:03",
+		"project" : "kilonAlios 11/15/2014 12:03",
+		"validate" : "kilonAlios 11/15/2014 12:03" },
+	"instance" : {
+		"baseline01:" : "kilonAlios 11/15/2014 12:04",
+		"customProjectAttributes" : "kilonAlios 11/15/2014 12:03",
+		"development:" : "kilonAlios 11/15/2014 12:07",
+		"project" : "kilonAlios 11/15/2014 12:03",
+		"stable:" : "kilonAlios 11/15/2014 12:07",
+		"version01:" : "kilonAlios 11/15/2014 12:07" } }
