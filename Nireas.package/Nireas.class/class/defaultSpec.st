@@ -3,4 +3,5 @@ defaultSpec
 	<spec>
 	
 	^ SpecLayout composed
-		newRow: #button height: 25; yourself
+		newRow: [:r | r add: #button width: 25. r add:  #backgroundColorWidget]
+			; yourself

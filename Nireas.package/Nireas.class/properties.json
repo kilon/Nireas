@@ -8,7 +8,9 @@
 	"instvars" : [
 		"button",
 		"myColor",
-		"theme" ],
+		"theme",
+		"backgroundColorMorph",
+		"backgroundColorWidget" ],
 	"name" : "Nireas",
 	"pools" : [
 		 ],

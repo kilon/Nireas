@@ -1,11 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "kilonAlios 11/15/2014 10:52",
+		"defaultSpec" : "kilonAlios 11/16/2014 13:16",
 		"menuCommandOn:" : "kilonAlios 11/15/2014 23:46",
 		"open" : "kilonAlios 11/15/2014 11:35" },
 	"instance" : {
+		"backgroundColorWidget" : "kilonAlios 11/16/2014 13:06",
 		"button" : "kilonAlios 11/15/2014 10:54",
 		"colorSelection" : "kilonAlios 11/15/2014 10:50",
-		"initialize" : "kilonAlios 11/15/2014 11:11",
+		"initialize" : "kilonAlios 11/16/2014 13:07",
 		"initializeWidgets" : "kilonAlios 11/15/2014 11:12",
 		"title" : "kilonAlios 11/15/2014 11:36" } }
