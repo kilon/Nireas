@@ -1,3 +1,3 @@
-backgroundColor
+resetColors
 resetColorsButton
 	^ resetColorsButton 

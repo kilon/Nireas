@@ -7,5 +7,7 @@ initialize
 	self initializeBackgroundColor .
 	self initializeBorderColor.
 	self initializeButtonColor .
+	self initializeTextColor .
+	self initializescrollbarColor .
 	
 	

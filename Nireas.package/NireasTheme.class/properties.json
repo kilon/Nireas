@@ -8,7 +8,9 @@
 	"instvars" : [
 		"backgroundColor",
 		"borderColor",
-		"buttonColor" ],
+		"buttonColor",
+		"textColor",
+		"scrollbarColor" ],
 	"name" : "NireasTheme",
 	"pools" : [
 		 ],
