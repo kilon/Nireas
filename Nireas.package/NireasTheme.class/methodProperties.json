@@ -4,4 +4,9 @@
 	"instance" : {
 		"backgroundColor" : "kilonAlios 11/15/2014 10:23",
 		"backgroundColor:" : "kilonAlios 11/15/2014 10:23",
-		"initialize" : "kilonAlios 11/15/2014 10:28" } }
+		"borderColor" : "kilonAlios 11/22/2014 23:12",
+		"borderColor:" : "kilonAlios 11/22/2014 23:13",
+		"buttonColor" : "kilonAlios 11/23/2014 12:09",
+		"buttonColor:" : "kilonAlios 11/23/2014 12:06",
+		"colorsDefaultValues" : "kilonAlios 11/23/2014 12:24",
+		"initialize" : "kilonAlios 11/23/2014 12:25" } }

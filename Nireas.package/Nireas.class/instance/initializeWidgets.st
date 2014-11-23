@@ -1,14 +1,16 @@
-as yet unclassified
+initialize
 initializeWidgets
 
-
 self instantiateModels: 
-		#( button ButtonModel ).
-	button := self newButton.
-
-		
-	button 
-		label: 'Change Background Color';
-		action: [ self colorSelection  ];
-		state: false.
-
+		#( resetColorsButton     ButtonModel
+		   backgroundColorButton ButtonModel 
+		   borderColorButton     ButtonModel
+		   buttonColorButton     ButtonModel).
+backgroundColorButton := self newButton.
+borderColorButton := self newButton .
+buttonColorButton := self newButton .
+resetColorsButton := self newButton .
+self instantiateBackgroundColorButton.
+self instantiateBorderColorButton.
+self instantiateButtonColorButton .
+self instantiateResetColorsButton .

@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"backgroundColor" ],
+		"backgroundColor",
+		"borderColor",
+		"buttonColor" ],
 	"name" : "NireasTheme",
 	"pools" : [
 		 ],

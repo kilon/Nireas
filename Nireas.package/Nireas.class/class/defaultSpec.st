@@ -3,5 +3,12 @@ defaultSpec
 	<spec>
 	
 	^ SpecLayout composed
-		newRow:  [:r | r add:  #backgroundColorWidget width: 30 . r add: #button ] height: 30; 
+	newColumn: [  :col|
+	
+	 col newRow: [ :r | r add: #resetColorsButton ].
+	 col newRow: [:r | r add:  #backgroundColorWidget width: 50 . r add: #backgroundColorButton ] .	
+	 col newRow:[:r|  r add:  #borderColorWidget width: 50 . r add: #borderColorButton] .
+	 col newRow:[:r|  r add:  #buttonColorWidget width: 50 . r add: #buttonColorButton] 
+	 
+	];
 		yourself
