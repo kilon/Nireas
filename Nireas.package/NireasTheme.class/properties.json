@@ -10,7 +10,8 @@
 		"borderColor",
 		"buttonColor",
 		"textColor",
-		"scrollbarColor" ],
+		"scrollbarColor",
+		"windowColor" ],
 	"name" : "NireasTheme",
 	"pools" : [
 		 ],

@@ -8,11 +8,15 @@
 		"borderColor:" : "kilonAlios 11/22/2014 23:13",
 		"buttonColor" : "kilonAlios 11/23/2014 12:09",
 		"buttonColor:" : "kilonAlios 11/23/2014 12:06",
-		"colorsDefaultValues" : "kilonAlios 11/23/2014 13:25",
+		"colorsDefaultValues" : "kilonAlios 12/13/2014 00:39",
 		"initialize" : "kilonAlios 11/23/2014 12:25",
 		"resetColors" : "kilonAlios 11/23/2014 13:09",
 		"scrollbarColor" : "kilonAlios 11/23/2014 13:24",
 		"scrollbarColor:" : "kilonAlios 11/23/2014 13:24",
 		"scrollbarNormalFillStyleFor:" : "kilonAlios 11/24/2014 11:02",
+		"scrollbarNormalThumbFillStyleFor:" : "kilonAlios 12/13/2014 00:33",
 		"textColor" : "kilonAlios 11/23/2014 13:15",
-		"textColor:" : "kilonAlios 11/23/2014 13:15" } }
+		"textColor:" : "kilonAlios 11/23/2014 13:15",
+		"windowActiveFillStyleFor:" : "kilonAlios 12/13/2014 00:20",
+		"windowColor" : "kilonAlios 12/12/2014 00:36",
+		"windowColor:" : "kilonAlios 12/12/2014 00:37" } }

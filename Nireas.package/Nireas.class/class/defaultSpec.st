@@ -11,6 +11,7 @@ defaultSpec
 	 col newRow:[:r|  r add:  #buttonColorWidget width: 50 . r add: #buttonColorButton] .
 	 col newRow:[:r|  r add:  #textColorWidget width: 50 . r add: #textColorButton] .
 	 col newRow:[:r|  r add:  #scrollbarColorWidget width: 50 . r add: #scrollbarColorButton] .
+	col newRow:[:r|  r add:  #windowColorWidget width: 50 . r add: #windowColorButton] .
 	
 	 
 	];

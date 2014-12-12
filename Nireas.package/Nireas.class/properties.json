@@ -28,7 +28,11 @@
 		"scrollbarColorButton",
 		"scrollbarColor",
 		"scrollbarColorMorph",
-		"scrollbarColorWidget" ],
+		"scrollbarColorWidget",
+		"windowColorButton",
+		"windowColor",
+		"windowColorMorph",
+		"windowColorWidget" ],
 	"name" : "Nireas",
 	"pools" : [
 		 ],

@@ -9,5 +9,6 @@ initialize
 	self initializeButtonColor .
 	self initializeTextColor .
 	self initializescrollbarColor .
+	self initializeWindowColor.
 	
 	

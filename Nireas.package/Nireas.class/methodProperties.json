@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "kilonAlios 11/23/2014 13:34",
+		"defaultSpec" : "kilonAlios 12/12/2014 00:50",
 		"menuCommandOn:" : "kilonAlios 11/15/2014 23:46",
 		"open" : "kilonAlios 11/15/2014 11:35" },
 	"instance" : {
@@ -13,12 +13,13 @@
 		"buttonColorButton" : "kilonAlios 11/23/2014 12:10",
 		"buttonColorSelection" : "kilonAlios 11/23/2014 12:12",
 		"buttonColorWidget" : "kilonAlios 11/23/2014 12:13",
-		"initialize" : "kilonAlios 11/23/2014 13:41",
+		"initialize" : "kilonAlios 12/12/2014 00:43",
 		"initializeBackgroundColor" : "kilonAlios 11/22/2014 23:19",
 		"initializeBorderColor" : "kilonAlios 11/23/2014 00:57",
 		"initializeButtonColor" : "kilonAlios 11/23/2014 12:13",
 		"initializeTextColor" : "kilonAlios 11/23/2014 13:17",
-		"initializeWidgets" : "kilonAlios 11/23/2014 13:35",
+		"initializeWidgets" : "kilonAlios 12/12/2014 00:47",
+		"initializeWindowColor" : "kilonAlios 12/12/2014 00:45",
 		"initializescrollbarColor" : "kilonAlios 11/23/2014 13:29",
 		"instantiateBackgroundColorButton" : "kilonAlios 11/23/2014 12:29",
 		"instantiateBorderColorButton" : "kilonAlios 11/23/2014 12:30",
@@ -26,7 +27,8 @@
 		"instantiateResetColorsButton" : "kilonAlios 11/23/2014 12:39",
 		"instantiateScrollbarColorButton" : "kilonAlios 11/23/2014 13:31",
 		"instantiateTextColorButton" : "kilonAlios 11/23/2014 13:20",
-		"resetColors" : "kilonAlios 11/23/2014 13:31",
+		"instantiateWindowColorButton" : "kilonAlios 12/12/2014 00:48",
+		"resetColors" : "kilonAlios 12/12/2014 00:49",
 		"resetColorsButton" : "kilonAlios 11/23/2014 12:33",
 		"scrollbarColorButton" : "kilonAlios 11/23/2014 13:25",
 		"scrollbarColorSelection" : "kilonAlios 11/23/2014 13:27",
@@ -34,4 +36,7 @@
 		"textColorButton" : "kilonAlios 11/23/2014 13:12",
 		"textColorSelection" : "kilonAlios 11/23/2014 13:14",
 		"textColorWidget" : "kilonAlios 11/23/2014 13:16",
-		"title" : "kilonAlios 11/15/2014 11:36" } }
+		"title" : "kilonAlios 11/15/2014 11:36",
+		"windowColorButton" : "kilonAlios 12/12/2014 00:40",
+		"windowColorSelection" : "kilonAlios 12/12/2014 00:42",
+		"windowColorWidget" : "kilonAlios 12/12/2014 00:43" } }

@@ -5,3 +5,4 @@ colorsDefaultValues
 	buttonColor := Color darkGray muchDarker lighter lighter.
 	textColor := Color white.
 	scrollbarColor := Color darkGray muchDarker.
+	windowColor  := Color darkGray  .

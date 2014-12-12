@@ -17,3 +17,6 @@ resetColors
 	scrollbarColor := theme scrollbarColor.
 	scrollbarColorMorph color: scrollbarColor .
 	
+	windowColor   := theme windowColor.
+	windowColorMorph color: windowColor .
+	
