@@ -5,7 +5,7 @@ defaultSpec
 	^ SpecLayout composed
 	newColumn: [  :col|
 	
-	 col newRow: [ :r | r add: #resetColorsButton ].
+	 col newRow: [ :r | r add: #resetColorsButton . r add: #selectTheme2Button].
 	 col newRow: [:r | r add:  #backgroundColorWidget width: 50 . r add: #backgroundColorButton ] .	
 	 col newRow:[:r|  r add:  #borderColorWidget width: 50 . r add: #borderColorButton] .
 	 col newRow:[:r|  r add:  #buttonColorWidget width: 50 . r add: #buttonColorButton] .

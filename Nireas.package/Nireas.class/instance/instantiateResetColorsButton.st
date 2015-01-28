@@ -2,7 +2,7 @@ instantiate
 instantiateResetColorsButton
 
 	resetColorsButton 
-		label: 'Reset Colors back to default';
+		label: '1';
 		action: [ self resetColors  ];
 		state: false.
 

@@ -32,7 +32,8 @@
 		"windowColorButton",
 		"windowColor",
 		"windowColorMorph",
-		"windowColorWidget" ],
+		"windowColorWidget",
+		"selectTheme2Button" ],
 	"name" : "Nireas",
 	"pools" : [
 		 ],
