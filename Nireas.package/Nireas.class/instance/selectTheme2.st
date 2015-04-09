@@ -1,11 +1,11 @@
 resetColors
 selectTheme2
-	theme backgroundColor: (Color r: 0.04 g: 0.04 b: 0.4).
-	theme borderColor: (Color r:0 g:1 b:1).
-	theme buttonColor: (Color r:0.12 g:0.2 b:0.4).
-	theme textColor: (Color r: 0.75 g: 0.95 b: 1).
-	theme scrollbarColor: (Color r: 0.18 g: 0.18  b: 0.18).
-	theme windowColor: (Color r: 0.18 g: 0.22  b: 0.63).
+   theme backgroundColor: ( Color darkGray muchDarker).
+	theme borderColor: ( Color darkGray darker darker).
+	theme buttonColor: ( Color darkGray muchDarker lighter lighter).
+	theme textColor: ( Color white ).
+	theme scrollbarColor: ( Color darkGray muchDarker ).
+	theme windowColor: ( Color darkGray  ).
 	
 	backgroundColor := theme backgroundColor.
 	backgroundColorMorph color: backgroundColor .
